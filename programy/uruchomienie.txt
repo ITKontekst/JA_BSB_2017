@@ -1,0 +1,2 @@
+java -cp program1.jar pl.itkontekst.javaadvanced.program1.Progam1
+java -cp program2.jar pl.itkontekst.javaadvanced.program2.Progam2
